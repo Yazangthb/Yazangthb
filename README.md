@@ -31,3 +31,5 @@ Want to collaborate, learn, or just geek out over data science? Find me here:
 🌐 [GitHub Pages](https://github.com/Yazangthb)  
 
 Let’s make something amazing together! 💫
+
+![Profile Views](https://komarev.com/ghpvc/?username=Yazangthb&style=flat-square&color=blue)
